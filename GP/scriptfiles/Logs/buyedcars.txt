@@ -1,0 +1,2 @@
+[07/29/2020 | 22:02:57] [AUTOS] [GP]Garlic vendio su vehiculo. Modelo: 549 - Precio: 350000
+[07/29/2020 | 22:21:40] [AUTOS] [GP]Garlic vendio su vehiculo. Modelo: 574 - Precio: 62500

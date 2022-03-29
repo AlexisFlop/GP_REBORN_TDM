@@ -1,0 +1,50 @@
+[11/05/2019 | 12:14:15] [SETSCORE] ]iL[Bryle seteo el score de ]iL[Bryle en: 10000
+[07/25/2020 | 12:34:11] [ADMIN] Jeff_Hel[ID:0] le ha seteado a todos los jugadores el dinero en: 10000.
+[07/25/2020 | 12:56:55] [SETSCORE] Jeff_Hel seteo el score de Jeff_Hel en: 0
+[07/25/2020 | 12:57:09] [SETSCORE] Jeff_Hel seteo el score de  en: 0
+[07/25/2020 | 12:57:35] [DINERO] Jeff_Hel le ha seteado el dinero a Jeff_Hel en 0.
+[07/25/2020 | 15:47:26] [DINERO] Jeff_Hel le ha seteado el dinero a Jeff_Hel en 9000.
+[07/25/2020 | 15:47:38] [DINERO] Jeff_Hel le ha seteado el dinero a Jeff_Hel en 900000.
+[07/25/2020 | 15:51:21] [SETSCORE] Jefferson seteo el score de Jefferson en: 1000
+[07/25/2020 | 15:51:26] [SETSCORE] Jefferson seteo el score de Jefferson en: 10000
+[07/25/2020 | 18:35:57] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}1
+[07/25/2020 | 18:36:00] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}2
+[07/25/2020 | 18:36:04] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}3
+[07/25/2020 | 18:36:06] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}4
+[07/25/2020 | 18:36:09] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}5
+[07/25/2020 | 18:36:12] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}6
+[07/25/2020 | 18:36:14] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}7
+[07/25/2020 | 18:36:16] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}8
+[07/25/2020 | 18:36:32] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}10
+[07/25/2020 | 18:36:36] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}11
+[07/25/2020 | 18:36:37] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}12
+[07/25/2020 | 18:36:43] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}13
+[07/25/2020 | 18:36:46] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}14
+[07/25/2020 | 18:41:12] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}49
+[07/25/2020 | 18:41:13] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}49
+[07/25/2020 | 18:41:28] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}114
+[07/25/2020 | 18:41:32] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}113
+[07/25/2020 | 18:41:40] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}49
+[07/25/2020 | 18:43:00] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}212
+[07/25/2020 | 18:43:07] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}209
+[07/25/2020 | 18:43:25] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}49
+[07/25/2020 | 18:46:28] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}86
+[07/25/2020 | 18:46:44] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}42
+[07/25/2020 | 18:49:23] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}20
+[07/25/2020 | 18:49:30] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}49
+[07/25/2020 | 18:51:22] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}120
+[07/25/2020 | 18:54:43] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}128
+[07/25/2020 | 18:54:56] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}129
+[07/25/2020 | 18:55:04] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}145
+[07/25/2020 | 18:55:10] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}190
+[07/25/2020 | 18:58:03] [SETSKIN] {FF6838}Jefferson {FFFFFF}la cambio a Jefferson el skinid {AFAFAF}49
+[07/29/2020 | 12:26:31] [DINERO] [GP]Garlic le ha seteado el dinero a [GP]Garlic en 1000000.
+[07/29/2020 | 12:26:58] [SETSCORE] [GP]Garlic seteo el score de [GP]Garlic en: 66666
+[07/29/2020 | 12:27:20] [SETSCORE] [GP]Garlic seteo el score de [GP]Garlic en: 100000
+[07/29/2020 | 19:21:21]  El admin [GP]Garlic ha seteado el tiempo de juego a [GP]Garlic en 365:36:09.
+[07/29/2020 | 21:43:13] [DINERO] [GP]Garlic_ le ha seteado el dinero a [GP]Garlic_ en 9999999.
+[07/29/2020 | 21:43:20] [SETSCORE] [GP]Garlic_ seteo el score de [GP]Garlic_ en: 10000
+[10/26/2020 | 21:57:26] [DINERO] Bryle.[cB] le ha seteado el dinero a KatoRce en 1000000.
+[10/26/2020 | 21:57:28] [DINERO] Bryle.[cB] le ha seteado el dinero a KatoRce en 10000000.
+[10/26/2020 | 21:57:49] [DINERO] Bryle.[cB] le ha seteado el dinero a Bryle.[cB] en 10000000.
+[10/26/2020 | 21:58:17] [ADMIN] Bryle.[cB][ID:1] le ha seteado a todos los jugadores el dinero en: 10000000.

@@ -1,0 +1,96 @@
+[11/04/2019 | 14:05:03] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 14:06:22] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 14:06:54] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 20:31:10] [ADMIN] ]iL[Bryle[ID:0] ha eliminado la cuenta de Alexis [Razon: is]
+[11/04/2019 | 21:11:32] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 21:21:46] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 21:25:53] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 21:31:39] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 21:35:38] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[11/04/2019 | 21:40:01] [VIP] ]iL[Bryle le dio ]iL[Bryle VIP nivel: 0
+[07/25/2020 | 12:49:53] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:49:58] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:50:12] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:50:31] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:50:36] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:56:06] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:56:14] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:56:18] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 12:56:36] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:07:14] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:07:18] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:07:22] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:08:09] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:08:14] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:23:19] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:23:39] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:25:03] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:25:35] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 0
+[07/25/2020 | 15:41:53] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 9
+[07/25/2020 | 15:41:59] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 10
+[07/25/2020 | 15:42:02] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 10
+[07/25/2020 | 15:42:08] [SETLEVEL] Jeff_Hel le a dado a Jeff_Hel el nivel: 10
+[07/25/2020 | 15:44:05] [VIP] Jeff_Hel le dio Jeff_Hel VIP nivel: 3
+[07/25/2020 | 15:51:11] [ADMIN] Jeff_Hel le ha cambiado el Nick a Jeff_Hel - Nuevo: Jefferson
+[07/25/2020 | 18:38:09] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de gC.ArEpA.Tv [Razon: none]
+[07/29/2020 | 11:13:43] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de ]iL[Bryle [Razon: none]
+[07/29/2020 | 11:14:14] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de Patch_[X] [Razon: Reset]
+[07/29/2020 | 11:14:22] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de PruebaGm [Razon: Reset]
+[07/29/2020 | 11:14:45] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de asdasdasdasd [Razon: Reset]
+[07/29/2020 | 11:15:08] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de Jeff_Helsinky [Razon: reset]
+[07/29/2020 | 11:15:09] [ADMIN] Jefferson[ID:0] ha eliminado la cuenta de Jeff_Helsi [Razon: reset]
+[07/29/2020 | 11:16:16] [ADMIN] Jefferson le ha cambiado el Nick a Jefferson - Nuevo: deletethis
+[07/29/2020 | 11:34:34] [SETLEVEL] test asignó a test el nivel [10]
+[07/29/2020 | 11:38:04] [ADMIN] test[ID:0] ha eliminado la cuenta de deletethis [Razon: no]
+[07/29/2020 | 11:51:13] [SETLEVEL] testing asignó a testing el nivel [10]
+[07/29/2020 | 11:51:35] [ADMIN] testing[ID:0] ha eliminado la cuenta de test [Razon: no]
+[07/29/2020 | 11:51:45] [ADMIN] testing[ID:0] ha eliminado la cuenta de [GP]Heaven [Razon: no]
+[07/29/2020 | 11:52:35] [SETLEVEL] testing asignó a testing el nivel [0]
+[07/29/2020 | 11:59:06] [SETLEVEL] [GP]Garlic asignó a [GP]Garlic el nivel [10]
+[07/29/2020 | 11:59:22] [ADMIN] [GP]Garlic[ID:0] ha eliminado la cuenta de testing [Razon: no]
+[07/29/2020 | 12:25:31] [ADMIN] [GP]Garlic[ID:0] ha eliminado la cuenta de [GP]Escanor [Razon: no]
+[07/29/2020 | 17:53:41] [VIP] [GP]Garlic le dió vip a [GP]Garlic - nivel: 2
+[07/29/2020 | 17:58:45] [VIP] [GP]Garlic le dió vip a [GP]Garlic - nivel: 0
+[07/29/2020 | 17:59:02] [VIP] [GP]Garlic le dió vip a [GP]Garlic - nivel: 1
+[07/29/2020 | 17:59:09] [VIP] [GP]Garlic le dió vip a [GP]Garlic - nivel: 2
+[07/29/2020 | 17:59:11] [VIP] [GP]Garlic le dió vip a [GP]Garlic - nivel: 3
+[07/29/2020 | 17:59:19] [VIP] [GP]Garlic le dió vip a [GP]Garlic - nivel: 2
+[07/29/2020 | 18:11:53] [VIP] [GP]Garlic le dió Nivel VIP a [GP]Garlic
+[07/29/2020 | 18:12:01] [VIP] [GP]Garlic le dió VIP1 a [GP]Garlic
+[07/29/2020 | 18:12:18] [VIP] [GP]Garlic le dió VIP2 a [GP]Garlic
+[07/29/2020 | 21:42:44] [SETLEVEL] [GP]Garlic_ asignó a [GP]Garlic_ el nivel [10]
+[07/29/2020 | 21:43:11] [ADMIN] [GP]Garlic_[ID:0] ha eliminado la cuenta de [GP]Garlic [Razon: no]
+[07/29/2020 | 21:43:30] [ADMIN] [GP]Garlic_ le ha cambiado el Nick a [GP]Garlic_ - Nuevo: [GP]Garlic
+[07/29/2020 | 21:45:10] [VIP] [GP]Garlic le dió VIP2 a [GP]Garlic
+[07/29/2020 | 21:46:04] [VIP] [GP]Garlic le dió VIP1 a [GP]Garlic
+[07/29/2020 | 21:46:42] [VIP] [GP]Garlic le dió VIP2 a [GP]Garlic
+[08/02/2020 | 23:49:39] [ADMIN] [GP]Garlic le ha cambiado el Nick a [GP]Garlic - Nuevo: [GP]Jeff
+[10/26/2020 | 20:39:33] [SETLEVEL] Vrilelele asignÃ³ a Vrilelele el nivel [10]
+[10/26/2020 | 21:04:54] [SETLEVEL] Bryle[cB] asignÃ³ a Bryle[cB] el nivel [10]
+[10/26/2020 | 21:50:59] [SETLEVEL] Bryle.[cB] asignÃ³ a Bryle.[cB] el nivel [10]
+[10/27/2020 | 21:43:28] [SETLEVEL] Bryle.__ asignÃ³ a Bryle.__ el nivel [10]
+[10/27/2020 | 21:46:40] [ADMIN] Bryle.__[ID:0] ha eliminado la cuenta de Bryle.[cB] [Razon: ASD]
+[10/27/2020 | 22:04:52] [SETLEVEL] Bryle.__ asignÃ³ a ErickCaBezon. el nivel [10]
+[10/27/2020 | 22:13:36] [VIP] Bryle.__ le diÃ³ VIP2 a ErickCaBezon.
+[10/27/2020 | 22:14:23] [VIP] Bryle.__ le diÃ³ VIP2 a Bryle.__
+[10/27/2020 | 22:14:53] [VIP] Bryle.__ le diÃ³ VIP2 a Flip
+[10/27/2020 | 22:25:02] [SETLEVEL] Bryle.__ asignÃ³ a Flip el nivel [10]
+[10/27/2020 | 22:26:33] [SETLEVEL] Bryle.__ asignÃ³ a Flip el nivel [9]
+[10/27/2020 | 22:35:18] [SETLEVEL] Bryle.__ asignÃ³ a Flip el nivel [0]
+[10/27/2020 | 22:59:04] [SETLEVEL] Bryle.___ asignÃ³ a Bryle.___ el nivel [10]
+[10/27/2020 | 23:06:31] [SETLEVEL] Bryle.____ asignÃ³ a Bryle.____ el nivel [10]
+[10/28/2020 | 15:50:42] [SETLEVEL] Bryle._____ asignÃ³ a Bryle._____ el nivel [10]
+[10/28/2020 | 19:46:27] [SETLEVEL] Bryle.______ asignÃ³ a Bryle.______ el nivel [10]
+[10/28/2020 | 19:53:07] [SETLEVEL] Bryle._______a asignÃ³ a Bryle._______a el nivel [10]
+[10/28/2020 | 20:00:42] [SETLEVEL] Bryle._______aa asignÃ³ a Bryle._______aa el nivel [10]
+[10/28/2020 | 20:01:58] [SETLEVEL] Bryle._______aaa asignÃ³ a Bryle._______aaa el nivel [10]
+[10/28/2020 | 20:04:32] [SETLEVEL] Bryle._______aaaa asignÃ³ a Bryle._______aaaa el nivel [10]
+[10/28/2020 | 20:55:05] [SETLEVEL] Bryle[cB] asignÃ³ a Bryle[cB] el nivel [10]
+[10/28/2020 | 20:56:05] [SETLEVEL] Bryle[cB] asignÃ³ a Bryle[cB] el nivel [5]
+[10/28/2020 | 20:56:07] [SETLEVEL] Bryle[cB] asignÃ³ a Bryle[cB] el nivel [10]
+[10/28/2020 | 20:57:50] [ADMIN] Bryle[cB][ID:0] ha eliminado la cuenta de ErickPAPS [Razon: asd]
+[10/28/2020 | 20:59:10] [ADMIN] Bryle[cB][ID:0] ha eliminado la cuenta de ErickCaBezon. [Razon: asd]
+[10/28/2020 | 21:08:06] [SETLEVEL] Bryle[cB] asignÃ³ a ErickCaBezon. el nivel [5]
+[10/28/2020 | 21:17:49] [SETLEVEL] Bryle[cB] asignÃ³ a ErickCaBezon. el nivel [0]
+[10/28/2020 | 21:40:28] [ADMIN] Bryle[cB][ID:0] ha eliminado la cuenta de ErickCaBezon. [Razon: Pruebas]
+[09/20/2021 | 15:03:46] [SETLEVEL] Bryle asignÃ³ a Bryle el nivel [10]

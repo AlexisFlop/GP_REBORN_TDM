@@ -1,0 +1,7 @@
+[07/25/2020 | 21:50:23] [AUTOS] Jefferson compro un(a) Sweeper - Precio: 125000
+[07/25/2020 | 21:55:04] [AUTOS] Jefferson vendio su vehiculo. Modelo: 574 - Precio: 62500
+[07/29/2020 | 22:01:49] [AUTOS] [GP]Garlic compro un(a) Tampa - Precio: 700000
+[07/29/2020 | 22:21:15] [AUTOS] [GP]Garlic compro un(a) Sweeper - Precio: 125000
+[10/26/2020 | 21:57:52] [AUTOS] Bryle.[cB] compro un(a) NRG-500 - Precio: 4500000
+[10/26/2020 | 21:58:27] [AUTOS] Saso_______ compro un(a) Sandking - Precio: 5500000
+[10/26/2020 | 21:58:37] [AUTOS] KatoRce compro un(a) Bullet - Precio: 3000000

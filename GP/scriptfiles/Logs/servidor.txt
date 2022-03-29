@@ -1,0 +1,2 @@
+[07/29/2020 | 22:23:47] [INFO]{FFFFFF} Servidor bloqueado, contraseña: {FF0000}test
+[07/30/2020 | 21:54:30] [GP]{FFFFFF} Servidor bloqueado usaste la contraseña: {FF0000}asdadsa
